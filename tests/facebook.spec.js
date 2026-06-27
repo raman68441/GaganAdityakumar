@@ -5,11 +5,12 @@ test('Facebook Login', async ({ page }) => {
     await test.step('Open Facebook', async () => {
 
         await page.goto('https://www.facebook.com');
-
+//kdiekdlsk
+dididfgit
     });
-
+`   `
     await test.step('Enter Email', async () => {
-
+//dfdf/s/df
         await page.locator('[name="email"]').fill('your_email');
 
     });
